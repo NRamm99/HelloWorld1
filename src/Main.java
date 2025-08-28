@@ -11,5 +11,6 @@ public class Main {
         String lastName = input.nextLine();
         System.out.println();
         System.out.println("Dit fornavn er " + name + " og dit efternavn er " + lastName);
+        // Push test
     }
 }
